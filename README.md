@@ -1,4 +1,4 @@
 # thirteengame
 A game
 
-[Javadoc](docs/index.html)
+[Javadoc](doc/index.html)
