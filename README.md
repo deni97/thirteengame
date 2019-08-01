@@ -6,4 +6,4 @@ No win condition is present.
 
 [Javadoc](https://deni97.github.io/thirteengame/)
 
-(https://i.imgur.com/1CZn356.png)
+![game overview](https://i.imgur.com/1CZn356.png)
